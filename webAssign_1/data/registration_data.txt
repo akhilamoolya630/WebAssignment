@@ -1,0 +1,9 @@
+Registration Details:
+First Name: Bindu
+Last Name: shenoy
+Email: bindu@gmail.com
+Password: 123
+Gender: female
+Date of Birth: 2002-12-19
+Hobbies: music
+-----------------------------------------
